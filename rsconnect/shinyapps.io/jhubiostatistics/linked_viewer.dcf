@@ -5,8 +5,8 @@ account: jhubiostatistics
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 1479137
-bundleId: 2592563
+bundleId: 2592573
 url: https://jhubiostatistics.shinyapps.io/linked_viewer/
-when: 1573846337.39397
+when: 1573846527.51994
 asMultiple: FALSE
 asStatic: FALSE
